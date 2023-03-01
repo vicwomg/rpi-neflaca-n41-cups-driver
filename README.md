@@ -1,9 +1,9 @@
 # rpi-neflaca-n41-cups-driver
-Neflaca N41 Thermal Printer - drivers for raspberry pi
+Neflaca NL-N41 Thermal Printer - drivers for raspberry pi
 
 ## Intro
 
-I got the Neflaca N41 thermal printer used for very cheap. It works fine, but my workflow required wireless printing so I tried to configure it with CUPS on raspberry pi. 
+I got the Neflaca NL-N41 thermal printer used for very cheap. It works fine, but my workflow required wireless printing so I tried to configure it with CUPS on raspberry pi. 
 
 While Linux drivers for this printer are available [here](https://drive.google.com/drive/folders/1Nj_xiN1Er8i-vx1U_JG8P1deI7xdV1nr), the included `raster-tspl` binary is not compiled for ARM. 
 
